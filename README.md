@@ -1,1 +1,3 @@
-# DevOps
+# Learnign DevOps
+## Progress
+- [x] Linux
